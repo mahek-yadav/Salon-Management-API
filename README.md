@@ -4,6 +4,8 @@ A RESTful backend API for managing **salons, salon services, and user authentica
 
 The API provides CRUD operations for salons and services, secure user registration and login, JWT-based authentication for protected routes, input validation, request logging, and filtering functionality.
 
+Render Live link : https://salon-management-api-m1lg.onrender.com
+
 ---
 
 ## 📌 Project Overview
